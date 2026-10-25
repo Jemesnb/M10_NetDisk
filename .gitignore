@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 访问口令，由程序启动时生成
+token.txt
+
+# 会话/助手数据，不进仓库
+.workbuddy/
